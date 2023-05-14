@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as c}from"./framework-11e2b124.js";const r={},s=e("h3",{id:"简介",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#简介","aria-hidden":"true"},"#"),c(" 简介")],-1),n=[s];function _(d,h){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","home.html.vue"]]);export{l as default};
