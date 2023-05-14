@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/logo.png
 actions:
-- text: 快速上手 hello-word
+- text: 快速上手 hello-word1
   link: /zh/guide/getting-started.html
   type: primary
 - text: 项目简介
